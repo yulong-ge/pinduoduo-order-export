@@ -1,0 +1,7 @@
+config.json
+pdd_order.txt
+pdd_order.txt.bak
+*.csv
+*.log
+__pycache__/
+.venv/

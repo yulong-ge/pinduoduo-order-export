@@ -1,0 +1,12 @@
+{
+  "cookies": {
+    "api_uid": "填入你的 cookie 值",
+    "PDDAccessToken": "填入你的 cookie 值",
+    "pdd_user_id": "填入你的 cookie 值",
+    "pdd_user_uin": "填入你的 cookie 值",
+    "pdd_vds": "填入你的 cookie 值",
+    "JSESSIONID": "填入你的 cookie 值",
+    "rec_list_personal": "填入你的 cookie 值"
+  },
+  "pdduid": "与 pdd_user_id 相同的数字"
+}
